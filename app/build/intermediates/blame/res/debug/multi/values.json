@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "F:\\ABOUTWORK\\qqonkey\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 52,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 102,
+                        "endColumn": 49,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endColumn": 64,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 153,
+                        "endColumn": 61,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endLine": 12,
+                    "endColumn": 9,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 183,
+                        "endLine": 14,
+                        "endColumn": 9,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endLine": 15,
+                    "endColumn": 9,
+                    "endOffset": 625
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 475,
+                        "endLine": 19,
+                        "endColumn": 9,
+                        "endOffset": 623
+                    }
+                }
+            }
+        ]
+    }
+]

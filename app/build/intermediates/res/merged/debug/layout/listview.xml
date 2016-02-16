@@ -1,0 +1,63 @@
+<com.sovnem.qqbardrag.SnotContainer xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context="${relativePackage}.${activityClass}" >
+
+	<ListView
+		android:id="@+id/listview"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_above="@+id/bottom"
+		android:divider="#efefef"
+		android:dividerHeight="1dp" >
+	</ListView>
+
+	<com.sovnem.sovnemprojects.qqbardrag.SnotView
+		android:id="@+id/holderview"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="#efefef"
+		android:visibility="gone" />
+
+	<LinearLayout
+		android:id="@+id/bottom"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:background="#ffffff"
+		android:orientation="horizontal"
+		android:weightSum="4" >
+
+		<RelativeLayout
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_weight="1" >
+
+			<ImageView
+				android:id="@+id/iview"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_centerInParent="true"
+				android:src="@drawable/skin_tab_icon_conversation_selected" />
+
+			<com.sovnem.sovnemprojects.qqbardrag.View.RoundBgTextview
+				android:id="@+id/tCount"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignRight="@id/iview"
+				android:layout_alignTop="@id/iview"
+				android:layout_marginRight="6dp"
+				android:background="#ff0000"
+				android:gravity="center"
+				android:paddingBottom="3dp"
+				android:paddingLeft="7dp"
+				android:paddingRight="7dp"
+				android:paddingTop="3dp"
+				android:text="99+"
+				android:textColor="#ffffff"
+				android:textSize="10sp" />
+		</RelativeLayout>
+	</LinearLayout>
+
+</com.sovnem.qqbardrag.SnotContainer>
