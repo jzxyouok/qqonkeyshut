@@ -1,10 +1,10 @@
 [
     {
-        "merged": "F:\\ABOUTWORK\\qqonkey\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_selector.xml",
-        "source": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\drawable\\item_selector.xml"
+        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/drawable/item_selector.xml",
+        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/drawable/item_selector.xml"
     },
     {
-        "merged": "F:\\ABOUTWORK\\qqonkey\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boom.xml",
-        "source": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\drawable\\boom.xml"
+        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/drawable/boom.xml",
+        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/drawable/boom.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\ABOUTWORK\\qqonkey\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
-                        "startOffset": 56,
+                        "startOffset": 53,
                         "endColumn": 44,
-                        "endOffset": 99
+                        "endOffset": 96
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 151
                 },
                 "from": {
-                    "file": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
-                        "startOffset": 102,
+                        "startOffset": 98,
                         "endColumn": 49,
-                        "endOffset": 150
+                        "endOffset": 146
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 216
                 },
                 "from": {
-                    "file": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
-                        "startOffset": 153,
+                        "startOffset": 148,
                         "endColumn": 61,
-                        "endOffset": 213
+                        "endOffset": 208
                     }
                 }
             },
@@ -69,7 +69,7 @@
                     "endOffset": 474
                 },
                 "from": {
-                    "file": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
@@ -90,7 +90,7 @@
                     "endOffset": 625
                 },
                 "from": {
-                    "file": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 1,

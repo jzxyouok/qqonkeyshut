@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\ABOUTWORK\qqonkey\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="F:\ABOUTWORK\qqonkey\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/debug/jniLibs"/></dataSet></merger>

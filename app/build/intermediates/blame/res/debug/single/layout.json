@@ -1,18 +1,18 @@
 [
     {
-        "merged": "F:\\ABOUTWORK\\qqonkey\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
-        "source": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\layout\\listview.xml"
+        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/layout/qqitem.xml",
+        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/layout/qqitem.xml"
     },
     {
-        "merged": "F:\\ABOUTWORK\\qqonkey\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qqitem.xml",
-        "source": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\layout\\qqitem.xml"
+        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "F:\\ABOUTWORK\\qqonkey\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dd.xml",
-        "source": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\layout\\dd.xml"
+        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/layout/dd.xml",
+        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/layout/dd.xml"
     },
     {
-        "merged": "F:\\ABOUTWORK\\qqonkey\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "F:\\ABOUTWORK\\qqonkey\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/layout/listview.xml",
+        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/layout/listview.xml"
     }
 ]

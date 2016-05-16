@@ -61,7 +61,7 @@
 		android:layout_toRightOf="@+id/textView1"
 		android:background="#ffff00"
 		android:padding="15dp"
-		android:text="弄啥呢"
+		android:text="1"
 		android:textSize="15sp" />
 
 </com.sovnem.qqbardrag.SnotContainer>
