@@ -91,6 +91,7 @@ public class SnotView extends View {
     }
 
     public void setProperty(TextView view, int exHeigh) {
+        flag = true;
         copyPropertiesOf(view, exHeigh);
         initPaint();
     }
@@ -140,6 +141,7 @@ public class SnotView extends View {
     @SuppressLint("DrawAllocation")
     @Override
     protected void onDraw(Canvas canvas) {
+        if (!flag) return;
         canvas.drawColor(Color.argb(0, 1, 1, 1));// 空背景
         if (boombing) {
             if (bitmap != null) {
@@ -426,7 +428,10 @@ public class SnotView extends View {
 
     View v;
 
+    boolean flag;
+
     public synchronized void handlerTvTouchEvent2(MotionEvent event, View v, int exHeight) {
+
         float x = event.getX();
         float y = event.getY();
 

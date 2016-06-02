@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/qqonkeyshut.iml" filepath="$PROJECT_DIR$/qqonkeyshut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dragdismiss/dragdismiss.iml" filepath="$PROJECT_DIR$/dragdismiss/dragdismiss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onkeyshut.iml" filepath="$PROJECT_DIR$/onkeyshut.iml" />
     </modules>
   </component>
 </project>

@@ -3,7 +3,7 @@
     <string name="app_name">a仿qqbar的拖拽</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_listview">MainActivity</string>
-    <style name="AppBaseTheme" parent="">
+    <style name="AppBaseTheme" parent="android:Theme.Material.Light">
 		<!--
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to

@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/idp.png",
-        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/drawable-xhdpi/idp.png"
+        "merged": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/idt.png",
+        "source": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/src/main/res/drawable-xhdpi/idt.png"
     },
     {
-        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ids.png",
-        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/drawable-xhdpi/ids.png"
+        "merged": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/idq.png",
+        "source": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/src/main/res/drawable-xhdpi/idq.png"
     },
     {
-        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/idr.png",
-        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/drawable-xhdpi/idr.png"
+        "merged": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ids.png",
+        "source": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/src/main/res/drawable-xhdpi/ids.png"
     },
     {
-        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
-        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/idp.png",
+        "source": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/src/main/res/drawable-xhdpi/idp.png"
     },
     {
-        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/idt.png",
-        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/drawable-xhdpi/idt.png"
+        "merged": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/idq.png",
-        "source": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/drawable-xhdpi/idq.png"
+        "merged": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/idr.png",
+        "source": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/src/main/res/drawable-xhdpi/idr.png"
     }
 ]

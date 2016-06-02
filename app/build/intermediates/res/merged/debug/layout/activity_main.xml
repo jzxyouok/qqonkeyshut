@@ -1,4 +1,4 @@
-<com.sovnem.qqbardrag.SnotContainer xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
 	android:id="@+id/father"
 	android:layout_width="match_parent"
@@ -64,4 +64,4 @@
 		android:text="1"
 		android:textSize="15sp" />
 
-</com.sovnem.qqbardrag.SnotContainer>
+</RelativeLayout>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/build/intermediates/res/merged/debug/values/values.xml",
+        "outputFile": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/build/intermediates/res/merged/debug/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,14 +11,7 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 1,
-                        "startOffset": 53,
-                        "endColumn": 44,
-                        "endOffset": 96
-                    }
+                    "file": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 151
                 },
                 "from": {
-                    "file": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 1,
-                        "startOffset": 98,
-                        "endColumn": 49,
-                        "endOffset": 146
-                    }
+                    "file": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 216
                 },
                 "from": {
-                    "file": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 1,
-                        "startOffset": 148,
-                        "endColumn": 61,
-                        "endOffset": 208
-                    }
+                    "file": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -66,17 +45,17 @@
                     "startOffset": 221,
                     "endLine": 12,
                     "endColumn": 9,
-                    "endOffset": 474
+                    "endOffset": 502
                 },
                 "from": {
-                    "file": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/values/styles.xml",
+                    "file": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
-                        "startOffset": 183,
+                        "startOffset": 185,
                         "endLine": 14,
                         "endColumn": 9,
-                        "endOffset": 440
+                        "endOffset": 473
                     }
                 }
             },
@@ -84,21 +63,13 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 479,
+                    "startOffset": 507,
                     "endLine": 15,
                     "endColumn": 9,
-                    "endOffset": 625
+                    "endOffset": 653
                 },
                 "from": {
-                    "file": "/Users/sovnem/AndroidStudioProjects/qqonkeyshut/app/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 1,
-                        "startOffset": 475,
-                        "endLine": 19,
-                        "endColumn": 9,
-                        "endOffset": 623
-                    }
+                    "file": "/Users/sovnem/AndroidStudioProjects/onkeyshut/app/src/main/res/values/styles.xml"
                 }
             }
         ]

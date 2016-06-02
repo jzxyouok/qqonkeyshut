@@ -1,4 +1,4 @@
-package com.sovnem.qqbardrag;
+package com.example.dragdismiss;
 
 import android.animation.Animator;
 import android.animation.Animator.AnimatorListener;
@@ -61,7 +61,8 @@ public class SnotView extends View {
 	volatile boolean hasCut;// 鼻涕是不是被扯断
 	private float width, height;// 鼻涕的宽高
 
-	private int[] imgs = new int[] { R.drawable.idp, R.drawable.idq, R.drawable.idr, R.drawable.ids, R.drawable.idt };// 动画资源
+	private int[] imgs ;
+//			new int[] { R.drawable.idp, R.drawable.idq, R.drawable.idr, R.drawable.ids, R.drawable.idt };// 动画资源
 	private boolean boombing;// 是不是正在播放爆炸动画
 	private Bitmap bitmap;// 动画帧资源
 	Handler handler = new Handler();
